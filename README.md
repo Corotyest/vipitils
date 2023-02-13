@@ -19,11 +19,11 @@ At the moment, you are required to obtain a copy of either [lit-vips](https://gi
 
 
 ### TO-DO:
-* Tests
+* Tests <br>
   Done but not uploaded.
-* Docs
-  Medium commented into `vipilits`.
-* Support for more filters
+* Docs <br>
+  Medium commented into `vipitils`.
+* Support for more filters <br>
   I personally thinks this is pretty much.
   
 MADE BY @RiskoZoSlovenska.
