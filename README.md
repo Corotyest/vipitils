@@ -1,6 +1,10 @@
-# Utilities for lua-vips
+## Utilities for the image processing module: `lit-vips`.
 
-This is a small collection of utility functions I find useful when working with VIPS.
+*Best known as lua-vips*.<br>
+;  I only edited a little of the module.<br>
+  "This is a small collection of utility functions I find useful when working with VIPS".
+
+MADE BY @RiskoZoSlovenska.
 
 
 ## Installation
@@ -8,17 +12,18 @@ This is a small collection of utility functions I find useful when working with 
 Get it from [lit](https://luvit.io/lit.html#vips-utils) using
 
 ```
-lit install RiskoZoSlovenska/vips-utils
+lit install Corotyest/vipitils
 ```
-
-Coming to [luarocks](https://luarocks.org/) soon.
-
 
 At the moment, you are required to obtain a copy of either [lit-vips](https://github.com/Bilal2453/lit-vips) or [lua-vips](https://github.com/libvips/lua-vips/tree/master) yourself for the library to work.
 
 
-## TODO:
+### TO-DO:
 * Tests
+  Done but not uploaded.
 * Docs
-* Publish to luarocks
+  Medium commented into `vipilits`.
 * Support for more filters
+  I personally thinks this is pretty much.
+  
+MADE BY @RiskoZoSlovenska.
